@@ -135,7 +135,7 @@ exec(messages.result)
 ```
 
 But we're getting ahead of ourselves.
-We'll work though building up queries and running them, and using `exec`, as we work through this chapter.
+We'll work through building up queries and running them, and using `exec`, as we work through this chapter.
 If the above works for you, great---you have a development environment set up and ready to go.
 
 
